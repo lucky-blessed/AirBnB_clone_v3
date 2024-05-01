@@ -1,7 +1,9 @@
-#This is a fork repository
-New contribution made by my Grace and Lucky at ALX SE.
-This section will be updated from time to time as contributions are being made on the project.
+# This is a fork repository
+* New contribution made by Grace and Lucky at ALX SE.
+* This section will be updated from time to time as contributions are being made on the project.
 
+# Updates
+* Refacored the codebase files to comply with pycodestyle check
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
