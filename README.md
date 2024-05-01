@@ -35,6 +35,7 @@ This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.
 
 ## File Descriptions
 [console.py](console.py) - the console contains the entry point of the command interpreter. 
+
 List of commands this console current supports:
 * `EOF` - exits console 
 * `quit` - exits console
@@ -47,6 +48,7 @@ List of commands this console current supports:
 
 #### `models/` directory contains classes used for this project:
 [base_model.py](/models/base_model.py) - The BaseModel class from which future classes will be derived
+
 * `def __init__(self, *args, **kwargs)` - Initialization of the base model
 * `def __str__(self)` - String representation of the BaseModel class
 * `def save(self)` - Updates the attribute `updated_at` with the current datetime
