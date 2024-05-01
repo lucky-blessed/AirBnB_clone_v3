@@ -1,5 +1,5 @@
 # This is a fork repository
-* New contribution made by Grace and Lucky at ALX SE.
+* New contribution made by Grace Obodo and Lucky Nkwor at ALX SE.
 * This section will be updated from time to time as contributions are being made on the project.
 
 # Updates
