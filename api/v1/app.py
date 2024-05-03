@@ -1,4 +1,4 @@
-!#/usr/bin/python3
+#!/usr/bin/python3
 """API connector app.py"""
 import os
 from models import storage
